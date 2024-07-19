@@ -3,3 +3,4 @@
 ## HEALTH
 - fruit-thursday
 - yoga class
+- working private care
