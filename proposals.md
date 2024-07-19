@@ -4,3 +4,4 @@
 ## sport
 - free tennis course
 - sponsored business run
+- free sport equipment
