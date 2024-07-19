@@ -4,3 +4,6 @@
 - fruit-thursday
 - yoga class
 - working private care
+- support for family:
+    - discount on private care
+    - spa ticket(s)
